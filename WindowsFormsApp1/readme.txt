@@ -1,0 +1,1 @@
+Resources文件夹下timg.jpg替换成自己的图标，大小95*95
